@@ -1,4 +1,4 @@
-# Data Science for Business (Technical), Spring 2024 Syllabus
+# Data Science for Business (Technical), Spring 2024
 Full syllabus link here: _____
 
 _Instructor:_ Foster Provost (email: fprovost@stern.nyu.edu) \
